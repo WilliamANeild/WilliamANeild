@@ -32,7 +32,7 @@ Researcher, software engineer, and quantitative engineer focused on quantitative
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ## Links
 - **Website:** [williamaneild.com](https://www.williamaneild.com)
 - **Emory Email:** [liam.neild@emory.edu](mailto:liam.neild@emory.edu)
