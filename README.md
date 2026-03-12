@@ -27,6 +27,11 @@ Researcher, software engineer, and quantitative engineer focused on quantitative
 ![NLP](https://img.shields.io/badge/NLP-4B5563)
 ![LLMs](https://img.shields.io/badge/LLMs-111827)
 ![Quant Finance](https://img.shields.io/badge/Quant_Finance-0F172A)
+![Claude](https://img.shields.io/badge/Claude-2D2D2D)
+![Cursor](https://img.shields.io/badge/Cursor-111827)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991)
 
 ## Links
 - **Website:** [williamaneild.com](https://www.williamaneild.com)
