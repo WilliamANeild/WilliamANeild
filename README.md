@@ -31,5 +31,5 @@ Researcher, software engineer, and quantitative engineer focused on quantitative
 ## Links
 - **Website:** [williamaneild.com](https://www.williamaneild.com)
 - **Emory Email:** [liam.neild@emory.edu](mailto:liam.neild@emory.edu)
-- **Personal Email:** [WilliamANeild@gmail.com](mailto:WilliamANeild@gmail.com)
+- **Personal Email:** [williamaneild@gmail.com](mailto:williamaneild@gmail.com)
 - **LinkedIn:** [william-neild](https://www.linkedin.com/in/william-neild/)
