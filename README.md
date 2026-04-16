@@ -35,6 +35,6 @@ Researcher, software engineer, and quantitative engineer focused on quantitative
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ## Links
 - **Website:** [williamaneild.com](https://www.williamaneild.com)
-- **Emory Email:** [liam.neild@emory.edu](mailto:liam.neild@emory.edu)
+- **School Email:** [liam.neild@emory.edu](mailto:liam.neild@emory.edu)
 - **Personal Email:** [williamaneild@gmail.com](mailto:williamaneild@gmail.com)
 - **LinkedIn:** [william-neild](https://www.linkedin.com/in/william-neild/)
